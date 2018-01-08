@@ -34,6 +34,6 @@
 
 >This is the first time that a computer program has defeated a human professional player
 >in the full-sized game of Go, a feat previously thought to be at least a decade away.
-
+>
 >这是第一次，在全尺寸的围棋比赛中，计算机程序击败了一位人类的专业棋手。
 >在最近10年的研究中，这是一次壮举。
